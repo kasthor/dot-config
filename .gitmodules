@@ -1,0 +1,6 @@
+[submodule "tmux/plugin/themepack"]
+	path = tmux/plugin/themepack
+	url = https://github.com/jimeh/tmux-themepack.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:kasthor/nvim-config.git
