@@ -4,3 +4,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:kasthor/nvim-config.git
+[submodule "vimwiki"]
+	path = vimwiki
+	url = git@github.com:kasthor/vimwiki.git
